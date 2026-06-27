@@ -1,0 +1,29 @@
+Act as an experienced SEO blog writer.
+
+Using the following information:
+
+Business:
+Glow & Grace Salon
+
+Location:
+Hyderabad
+
+Primary Keyword:
+Best Salon in Hyderabad
+
+Write a 1500–2000 word SEO-optimized blog.
+
+Requirements:
+
+Use the provided H1, H2 and H3 structure.
+Write in simple English.
+Include the primary keyword naturally.
+Add related keywords.
+Write an engaging introduction.
+Explain each section in detail.
+Include bullet points where appropriate.
+Add FAQs.
+Write a conclusion.
+End with a strong Call-to-Action encouraging customers to book an appointment.
+
+Ensure the content is original, helpful, readable, and optimized for search intent.
